@@ -6,7 +6,7 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sarthakrajwar06">
     <img
       src="https://komarev.com/ghpvc/?username=sarthakrajwar06&label=Profile%20views&color=00FFFF&style=flat-square"
@@ -21,7 +21,7 @@
     alt="Sarthak Rajwar"
     width="1000"
   />
-</p>
+</p> -->
 
 ## 📌 About Me
 - 🔭 I’m currently working on AI-powered automation systems, Machine Learning and Deep Learning projects.
@@ -50,9 +50,9 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=sarthakrajwar06&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sarthak Rajwar's GitHub Trophies" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakrajwar06&theme=gruvbox&radius=10" alt="sarthakrajwar06's Activity Graph" />
-</p>
+</p> -->
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
