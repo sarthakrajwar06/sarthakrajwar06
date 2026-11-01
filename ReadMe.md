@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:a371f7&text=Sarthak%20Rajwar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20DS%20Scholar&descSize=22&descColor=FFFFFF&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:a371f7&height=220&section=header&text=Sarthak%20Rajwar&fontSize=60&fontColor=FFFFFF&fontAlignY=40"
     width="100%"
     alt="Sarthak Rajwar"
   />
@@ -19,7 +19,7 @@
   <img
     src="./assets/profile.png"
     alt="Sarthak Rajwar"
-    width="250"
+    width="1000"
   />
 </p>
 
