@@ -24,10 +24,6 @@
 </p>
 
 ## 📌 About Me
-
-<img src="none" alt="Banner" width="100%" />
-
-## 📌 About Me
 - 🔭 I’m currently working on AI-powered automation systems, Machine Learning and Deep Learning projects.
 - 👯 I’m looking to collaborate on AI/ML, Deep Learning, Computer Vision and innovative open-source projects.
 - 🤝 I’m looking for help with advanced Machine Learning, model optimization and scalable AI solutions.
